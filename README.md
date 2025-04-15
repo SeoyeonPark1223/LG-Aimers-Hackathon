@@ -1,2 +1,3 @@
 # LG-Aimers-Hackathon
-난임 환자 대상 임신 성공 여부 예측 AI 온라인 해커톤 private 스코어 기준 상위 0.05
+
+[실험 기록](https://important-chauffeur-cbe.notion.site/LG-Aimers-Hackathon-18d6d26f836b80748c3ff8f301a6f479?pvs=4)
